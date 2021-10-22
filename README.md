@@ -9,3 +9,4 @@ learn CV everyday...
     - [作业: 绘制OpenCV Logo](https://github.com/jerry729/learnOpenCV/blob/main/GUI%20features/opencvLogo.ipynb)
 - [1.4 鼠标事件](https://github.com/jerry729/learnOpenCV/blob/main/GUI%20features/mouse.ipynb)
     - [作业: 绘制无填充矩形](https://github.com/jerry729/learnOpenCV/blob/main/GUI%20features/hollow_rec.py)
+- [1.5 轨迹栏](https://github.com/jerry729/learnOpenCV/blob/main/GUI%20features/trackbar.ipynb)
