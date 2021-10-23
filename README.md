@@ -15,3 +15,4 @@ learn CV everyday...
 - [2.1 基本图像操作](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/basic.ipynb)
 - [2.2 图像上的算术运算](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/arithmetic.ipynb)
     - [练习: 淡出幻灯片](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/slides.ipynb)
+- [2.3 性能衡量和提升](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/evaluate.ipynb)
