@@ -16,3 +16,7 @@ learn CV everyday...
 - [2.2 图像上的算术运算](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/arithmetic.ipynb)
     - [练习: 淡出幻灯片](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/slides.ipynb)
 - [2.3 性能衡量和提升](https://github.com/jerry729/learnOpenCV/blob/main/coreOperation/evaluate.ipynb)
+
+3. 图像处理
+- [3.1 改变颜色空间](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/cvtcolor.ipynb)
+    - [练习: 提取多种颜色](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/track3colors.ipynb)
