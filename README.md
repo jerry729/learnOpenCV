@@ -1,4 +1,4 @@
-learn CV everyday...
+OpenCV-Python
 
 # Content of notebook
 
