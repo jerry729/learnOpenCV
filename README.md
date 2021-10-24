@@ -20,3 +20,5 @@ learn CV everyday...
 3. 图像处理
 - [3.1 改变颜色空间](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/cvtcolor.ipynb)
     - [练习: 提取多种颜色](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/track3colors.ipynb)
+- [3.2 图像阈值](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/threshold.ipynb)
+    - [练习: Otsu二值化的实现](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/otsuBinarization.py)
