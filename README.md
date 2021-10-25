@@ -23,3 +23,4 @@ OpenCV-Python
 - [3.2 图像阈值](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/threshold.ipynb)
     - [练习: Otsu二值化的实现](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/otsuBinarization.py)
 - [3.3 图像平滑](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/smoothing.ipynb)
+- [3.4 形态变换](https://github.com/jerry729/learnOpenCV/blob/main/imageProcessing/morphological.ipynb)
